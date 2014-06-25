@@ -102,34 +102,3 @@ Regenerar é uma ultra maratona não uma corrida de 100 metros. Ninguém começa
 Não espere pelo dia ideal. Se efectivamente quer regenerar hoje é o dia, com as condições e recursos que tem aqui e agora. 
 
 Boas práticas.  
-
-## O Curso 
-
-Este curso tem a duração de 8 Meses e durante esse período é este o desafio.
-
-Regenerar - Utilizando o Chi Kung, criação de hábitos de prática e hábitos de saúde e longevidade assentes na teoria clássica da Medicina Tradicional Chinesa. 
-
-Cada mês vai ter um tema e cada tema que se dirige a aspectos que pela minha experiência contribuem pelos hábitos de prática a um fortalecimento e entendimento da energia vital de cada praticante de forma gradual e segura. 
-
-Desde o lançamento do primeiro email muitas perguntas me têm chegado
-
-As duas mais frequentes têm sido: 
-
-1. Se este é um curso que permite ensinar Chi Kung? Não, este curso não contempla essa possibilidade. Quando alguém se encontra num projecto de se regenerar a sua mente deve estar envolvida em si e não no que pode ensinar aos outros a partir do que está a aprender neste momento. Poderá no entanto para quem já tem as qualificações necessárias para ensinar este curso poderá servir de complemento à sua formação. 
-
-2. Mais informações sobre o curso, valores. módulos, datas, duração? Peço-vos que esperem pacientemente por dia 30 onde toda esta informação vos será enviada.  
-
-Boas práticas.
-
-
-Durante os primeiros anos de ensino o meu foco inicial era nos recursos. Fornecia recursos sob a forma teoria, de movimentos e posturas de Chi Kung que esperava que o meus alunos integrassem nas sua vidas. Isso com frequência não acontecia. A prática era nas aulas e pouco trabalho era desenvolvido fora delas. 
-
-Este paradigma alterou-se nos últimos anos. Agora, invisto a minha energia a ensinar os meus alunos a trazer o material ensinado para o dia a dia consoante o espaço de prática e o tempo que têm disponível. O gosto por esta arte e a taxa de implementação do Chi Kung fora da aula subiu consideravelmente desde então.
-
-**Este caminho de Regeneração acontece quando existem três factores.**
-
-+ Um Espaço onde possa acontecer essa transformação
-
-+ Um Tempo para ela ser cultivada e desenvolvida 
-
-+ A recolha de Recursos que permitam essa mudança
