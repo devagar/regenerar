@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: cdefault
 title: writing 
 ---
-## Writing
+## Artigos
 
 <div class="hfeed">
 	{% for post in site.posts %}
