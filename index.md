@@ -2,13 +2,6 @@
 layout: cdefault
 title: Curso de Chi Kung no IMP
 ---
-<div class='post'>
-    <div class='body'>
-   {% for post in site.posts limit:1 %}
-      	<h2>{{post.title}}</h2>
-      	{{ post.content }}
-    {% endfor %}
-    </div>
-</div>
+<p><img src="/images/logo-ckimp.jpg" class="profile" style="float: center; margin-right: 1em; width: 100%;"></p>
 
 
