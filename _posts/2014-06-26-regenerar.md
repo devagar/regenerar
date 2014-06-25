@@ -101,4 +101,4 @@ Regenerar é uma ultra maratona não uma corrida de 100 metros. Ninguém começa
 
 Não espere pelo dia ideal. Se efectivamente quer regenerar hoje é o dia, com as condições e recursos que tem aqui e agora. 
 
-Boas práticas.  
+Boas práticas a todos.
