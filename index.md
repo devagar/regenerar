@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Oito meses para Regenerar
+layout: cdefault
+title: Curso de Chi Kung no IMP
 ---
 <div class='post'>
     <div class='body'>
