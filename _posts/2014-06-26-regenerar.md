@@ -32,7 +32,7 @@ Embora esta história não seja uma história recente apresenta paralelismos com
 
 + É fácil anunciar pessoalmente ou através de uma rede social a intenção de deixar de fumar, iniciar uma dieta ou voltar ao ginásio num futuro próximo, mas todos sabemos que dai até à sua concretização o futuro nem sempre está ao virar da esquina. 
 
-+ É fácil ler um livro de auto-ajuda, visualizar um filme inspirador ou realizar um curso que apela à transformação. Destas vivências resultam muitas vezes apontamentos recolhidos sob vários formatos e que são guardados religiosamente como ensinamentos sagrados em estantes ou gavetas onde ficam esquecidos sem qualquer utilidade prática. 
++ É fácil ler um livro de auto-ajuda, visualizar um filme inspirador ou realizar um curso que apela à transformação. Destas vivências resultam muitas vezes apontamentos recolhidos sob vários formatos que são guardados religiosamente como ensinamentos sagrados em estantes ou gavetas onde ficam esquecidos sem qualquer utilidade prática. 
 
 Na cultura oriental a cura ou a transformação está associadas a um caminho individual que busca a autonomia.
 
