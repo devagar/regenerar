@@ -34,13 +34,13 @@ Embora esta história não seja uma história recente apresenta paralelismos com
 
 + É fácil ler um livro de auto-ajuda, visualizar um filme inspirador ou realizar um curso que apela à transformação. Destas vivências resultam muitas vezes apontamentos recolhidos sob vários formatos que são guardados religiosamente como ensinamentos sagrados em estantes ou gavetas onde ficam esquecidos sem qualquer utilidade prática. 
 
-Na cultura oriental a cura ou a transformação está associadas a um caminho individual que busca a autonomia.
+**Na cultura oriental a cura ou a transformação está associadas a um caminho individual que busca a autonomia.**
 
 Aprender a utilizar o Chi Kung como caminho de regeneração requer adquirir mestria em três aspectos, estes aspectos complementam-se e apoiam-se mutuamente são eles  
 
-+ O Espaço
-+ O Tempo
-+ E os Recursos
++ Espaço
++ Tempo
++ E Recursos
 
 ## 1. A importância do Espaço.
 
