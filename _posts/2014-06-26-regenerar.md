@@ -99,8 +99,8 @@ Dê tempo ao processo de regeneração e só retire conclusões quando conseguir
 
 Regenerar é uma ultra maratona não uma corrida de 100 metros. Ninguém começa a correr uma prova de resistência ao ritmo de uma corrida de velocidade. Durante uma prova existem atrasos, gestão de ritmo consoante o piso, necessidades de paragens e às vezes mesmo quedas. Chegar é importante, mas não tão importante como o caminho que é percorrido e o que ele nos pode ensinar. 
 
-Não espere pelo dia ideal. Se efectivamente quer regenerar hoje é o dia, com as condições e recursos que tem aqui e agora. 
+Não espere pelo dia ideal. Se efectivamente quer regenerar, hoje é o dia, com as condições e recursos que tem aqui e agora. 
 
-Dia 30 toda a informação sobre o Curso de Chi Kung Terapêutico será enviada para esta lista. 
+Dia 30 toda a informação sobre o Curso de Chi Kung Terapêutico será enviada para esta lista e será lançada nesta pagina. 
 
 Boas práticas a todos.
