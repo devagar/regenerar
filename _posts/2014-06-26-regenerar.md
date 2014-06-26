@@ -101,4 +101,6 @@ Regenerar é uma ultra maratona não uma corrida de 100 metros. Ninguém começa
 
 Não espere pelo dia ideal. Se efectivamente quer regenerar hoje é o dia, com as condições e recursos que tem aqui e agora. 
 
+Dia 30 toda a informação sobre o Curso de Chi Kung Terapêutico será enviada para esta lista. 
+
 Boas práticas a todos.
