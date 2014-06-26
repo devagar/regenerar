@@ -79,7 +79,7 @@ Ou por outras palavras - **Ter muitos recursos não significa que se vai obter m
 
 Na minha [página pessoal](http://devagar.org) podem encontrar o [Vídeo Essencial.](http://devagar.org/video.html) Contém uma rotina de 23 minutos de prática que fornece os recursos suficientes para iniciar o estudo do Chi Kung. 
 
-Para quem gostaria de começar convido-vos a praticar os primeiros 12 minutos deste vídeo. Para quem tem menos tempo, recomendo a prática durante cinco minutos - se possível várias vezes ao dia do exercício [Balançar os Braços em Frente ao Corpo.](http://vimeo.com/60335737#t=10m15s) Também presente nesta proposta essencial. 
+Para quem gostaria de começar convido-vos a praticar os primeiros 12 minutos deste vídeo. Para quem tem menos tempo, recomendo a prática durante cinco minutos - se possível várias vezes ao dia do exercício [Balançar os Braços em Frente ao Corpo.](https://vimeo.com/60335737#t=10m15s) Também presente nesta proposta essencial. 
 
 A necessidade de muitos recursos para Regenerar é assim um mito.  
 
