@@ -1,5 +1,5 @@
 ---
-title: Como Regenerar com Chi Kung?
+title: Regeneraração e Chi Kung
 layout: post
 ---
 Existe uma história indiana de três homens que tinham uma doença rara para a qual ainda não tinha sido encontrada a cura. 
