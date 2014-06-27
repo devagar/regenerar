@@ -1,10 +1,8 @@
 ---
 layout: cdefault
-title: Curso de Chi Kung no IMP
+title: Inquérito
 ---
-<CENTER> <h2>Primeiro curso de Chi Kung Terapêutico no IMP </h2> </CENTER>
-<CENTER> <h3><b>Lançamento oficial aqui, dia 30 de Junho </b></h3> </CENTER>
+## Inquérito 
 
-<p><img src="/images/logo-ckimp.jpg" class="profile" style="float: center; margin-right: 1em; width: 100%;"></p>
-
+div id="surveyMonkeyInfo"><div><script src="http://pt.surveymonkey.com/jsEmbed.aspx?sm=0rKyfviZXE_2bVD_2bE5LMRvWg_3d_3d"> </script>
 
