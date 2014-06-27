@@ -8,14 +8,14 @@
 
 /* Shared for all accordion types */
 .accordion {
-    font-family:Arial, Helvetica, sans-serif; 
+    font-family: Helvetica, Arial, sans-serif; 
     margin:0 auto;
-    font-size:14px;
-    border:1px solid #542437;
+    font-size:20px;
+    /*border:1px solid #542437;
     border-radius:10px;
     width:600px;
     padding:10px;
-    background:#fff;
+    background:#fff;*/
 }
 .accordion ul {
     list-style:none;
@@ -31,20 +31,21 @@
 }
 .accordion label {
     display:block;
-    font-size:16px;
-    line-height:16px;
-    background:#D95B43;
-    border:1px solid #542437;
-    color:#542437;
-    text-shadow:1px 1px 1px rgba(255,255,255,0.3);
+    font-size:20px;
+    line-height:20px;
+    background:#fff;
+    border:1px solid #444;
+    border-radius:5px;
+    color:#444;
+    /*text-shadow:1px 1px 1px rgba(255,255,255,0.3);*/
     font-weight:700;
     cursor:pointer;
-    text-transform:uppercase;
+    /*text-transform:uppercase;*/
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
 }
 .accordion ul li label:hover, .accordion [type=radio]:checked ~ label, .accordion [type=checkbox]:checked ~ label {
-    background:#C02942;
+    background:#0099BB;
     color:#FFF;
     text-shadow:1px 1px 1px rgba(0,0,0,0.5)
 }
@@ -52,6 +53,7 @@
     padding:0 10px;
     overflow:hidden;
     border:1px solid #fff; /* Make the border match the background so it fades in nicely */
+    border-radius:5px;
     -webkit-transition: all .5s ease-out;
     -moz-transition: all .5s ease-out;
 }
