@@ -2,28 +2,72 @@
 layout: cdefault
 title: Programa 
 ---
-Aos 8 meses foi-me diagnosticada asma consequência de uma constipação mal tratada.
 
-Quando entrei para o jardim de infância lembro-me de não poder fazer o que os outros "meninos faziam" e d inalador tornaram-se parte dos objectos que carregava na minha mochila para a escola.  
+>Ofereçam um peixe a um homem e alimentam-o por um dia, ensinem-o a pescar e alimentem-o para toda a vida- *Provérbio Chinês.* 
+
+**A minha experiência** 
+
+Aos 8 meses foi-me diagnosticada asma consequência de uma constipação mal tratada.
 
 A sabedoria popular atestava que aos 7 anos a asma desapareceria que existiam alguns casos na família em que isso tinha acontecido.
 
-Aos sete anos + um dia a minha tristeza foi grande quando percebi continuava a necessitar de me fazer acompanhar pelo meu "amigo inalador" de longa data. A minha mãe garantia-me que melhorei muito depois dos 7 anos mas o inalador continuava a ter um lugar cativo na mochila. 
+Aos sete anos e um dia a minha tristeza foi grande quando percebi que afinal o milagre não tinha acontecido. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha melhorado ficado completamente curado.
 
-No entanto alguém me garantia que existia alguém que era primo de um primo que tinha aos 14 anos melhorado consideravelmente.
+Aos 14 anos e um dia a história e a minha tristeza repetiam-se até porque agora já não havia mais nenhuma história que atestasse nem mesmo de forma remota que em alguma idade para além dos 14 a asma desaparecesse. 
 
-Aos 14 anos + um dia a história e a minha tristeza repetiam-se até porque agora já não havia mais nenhuma história que atestasse nem de forma remota que em alguma idade para além dos 14 a asma desaparecesse. 
+Depois de todos os tratamentos possíveis e imaginários que incluíam desde comprimidos, inaladores, injecções, vacinas, vacinas bebíveis e xaropes visitei muitos médicos e terapeutas desde o clássico Professor até ao senhor que vivia numa aldeia longínqua a quase um dia de viagem e que era conhecido por ter operado milagres nas situações mais adversas, a asma essa persistia.
 
-Quando se tem uma questão crónica durante tanto tempo aceita-se a realidade como a única possível.
+A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, tomava o inalador, voltava-me para o outro lado e dormia até de manhã. E durante muitos anos foi assim. 
 
-Para além de todos os tratamentos possíveis e imaginários que incluiam desde comprimidos, inaladores, injecções, vacinas, vacinas bebíveis e xaropes visitei muitos médicos e terapêutas desde o clássico Professor até ao senhor que vivia numa aldeia longinqua a quase um dia de viagem e que era conhecido por ter operado milagres nas situações mais adversas.
+Aos 27 anos inscrevi-me no curso de <a href="http://esmtc.pt" target="_blank">Medicina Tradicional Chinesa</a>. Na sequência do ingresso nesta escola tive acesso a informação e a práticas que me demonstravam a vida poderia ser efectivamente diferente. 
 
-A asma no entanto não tinha desaparecido. 
+Em poucas semanas depois de iniciar o tratamento o inalador ficou numa gaveta e foi deitado fora anos mais tarde ainda cheio mas já fora do prazo. 
+
+A pergunta que me fazem muitas vezes desde então tem sido - Quais foram os tratamentos, suplementos ou os pontos de acupunctura que resolveram tudo?
+
+Houve apenas uma mudança. Foram me dadas pelas primeira vez condições reais em que eu pudesse me autonomizar em relação à doença. 
+
+Passei de uma atitude passiva de toma massiva de medicamentos para uma atitude participativa. Havia uma solução mas tinha de ser eu a chegar lá utilizando o Chi Kung e a alimentação. 
+
+Foi-me dado espaço, tempo e recursos para Regenerar.
+
+Regenerar pode ser definido como restaurar o potencial e Energia Original de cada ser humano que se manifesta como
+
++ Mais vitalidade
++ Mais presença
++ Melhor postura
++ Mais foco
++ Capacidade de estabelecer prioridades 
++ Capacidade de relaxar mesmo em condições adversas
++ Um corpo com menos tensões físicas e mentais
++ Melhor desempenho a nível pessoal e profissional
+
+Existem no entanto cinco factores que considero impedimentos para que a Regeneração aconteça e se estabeleça como prática regular.
+
+Falta de organização
+Incapacidade de definir prioridades 
+Dificuldade de Relaxar as tensões físicas e mentais 
+
+
+
+
+**Neste percurso tenho compreendido que no dia a dia existem factores que impedem de regenerar**
+
+
  
 
-Quando existiam as crises de asma havia um broncodilatador e para as alergias os anti-histamínicos. E com a convivência com os outros meninos aceitamos a realidade. &#8220;Porque é assim a vida&#8221;.
 
-Aos 27 anos inscrevi-me no curso de <a href="http://esmtc.pt" target="_blank">Medicina Tradicional Chinesa</a>. Na sequência do ingresso nesta escola tive acesso a informação e a práticas que me mostraram que a vida não tem que ser assim.
+
+
+
+
+
+
+
+
+
+
+
 
 Duas atitudes que para mim resultaram:
 
@@ -116,17 +160,62 @@ Tal como a árvore em que as raízes se tornam mais fortes com o tempo.
             <label for="checkbox-3">Módulo 3 - Cultivar um Centro Forte e Fléxível</label>
             <div class="content">
                 <h3>20 e 21 de Dezembro</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec posuere lorem. Pellentesque hendrerit, lorem luctus porttitor vestibulum, eros sapien mattis libero, euismod congue neque nisi at ipsum. Mauris semper ipsum sit amet metus semper malesuada. Donec vel est justo, ac porta diam.</p>
-                <p>In ut est in orci commodo blandit. Cras rhoncus ultricies augue. Proin quam odio, venenatis ut tempus tristique, aliquet in velit. Pellentesque volutpat facilisis orci, ut congue mi rhoncus at. Nullam vehicula dignissim neque, sed rhoncus magna ultricies et.</p>
+                <p>Elemento Água</p>
+                <p>Exercícios para o Elemento Água</p>
+                <p>O Centro e as emoções</p>
+                <p>Tratamentos e práticas específicas para regenerar no Inverno</p>
+                <p>Introdução à Moxa</p>
             </div>
         </li>
         <li>
             <input type="checkbox" id="checkbox-4" name="checkbox-accordion" />
-            <label for="checkbox-4">Title&nbsp;Four</label>
+            <label for="checkbox-4">Módulo 4 - Respiração e Relaxamento</label>
             <div class="content">
-                <h3>I was wrong, I'm done</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec posuere lorem. Pellentesque hendrerit, lorem luctus porttitor vestibulum, eros sapien mattis libero, euismod congue neque nisi at ipsum. Mauris semper ipsum sit amet metus semper malesuada. Donec vel est justo, ac porta diam.</p>
-                <p>In ut est in orci commodo blandit. Cras rhoncus ultricies augue. Proin quam odio, venenatis ut tempus tristique, aliquet in velit. Pellentesque volutpat facilisis orci, ut congue mi rhoncus at. Nullam vehicula dignissim neque, sed rhoncus magna ultricies et.</p>
+                <h3>17 e 18 de Janeiro</h3>
+                <p>A respiração no Zhan Zhuang Chi Kung</p>
+                <p>Sistema Nervoso e a respiração</p>
+                <p>Elemento Madeira</p>
+                <p>Tratamentos e práticas específicas para regenerar o elemento Madeira</p>
+            </div>
+        </li>
+        <li>
+            <input type="checkbox" id="checkbox-5" name="checkbox-accordion" />
+            <label for="checkbox-5">Módulo 5 - Vitalidade e Imunidade</label>
+            <div class="content">
+                <h3>17 e 18 de Janeiro</h3>
+                
+                <p>Elemento Fogo </p>
+                <p>Tratamentos e práticas específicas para regenerar o elemento Fogo</p>
+            </div>
+        </li>
+        <li>
+            <input type="checkbox" id="checkbox-6" name="checkbox-accordion" />
+            <label for="checkbox-6">Módulo 6 - Foco e Mindfullness</label>
+            <div class="content">
+                <h3>7 e 8 de Março</h3>
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+        </li>
+        <li>
+            <input type="checkbox" id="checkbox-7" name="checkbox-accordion" />
+            <label for="checkbox-7">Módulo 7 - Da Quietude ao Movimento e do Movimento à Quietude</label>
+            <div class="content">
+                <h3>11 e 12 de Abril</h3>
+                <p>A respiração no Zhan Zhuang Chi Kung</p>
+                <p>Sistema Nervoso e a respiração</p>
+                <p></p>
+            </div>
+        </li>
+        <li>
+            <input type="checkbox" id="checkbox-8" name="checkbox-accordion" />
+            <label for="checkbox-8">Módulo 8 - Retiro Urbano</label>
+            <div class="content">
+                <h3>16 e 17 de Maio</h3>
+                <p>Apresentação de Trabalhos</p>
+                <p></p>
+                <p></p>
             </div>
         </li>
     </ul>
