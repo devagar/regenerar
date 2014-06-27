@@ -2,7 +2,18 @@
 layout: cdefault
 title: Inquérito
 ---
-## Inquérito 
+## Inquérito
+
+De mim vocês sabem quem sou. Ensino no Instituto Macrobiótico de Portugal nestes últimos 15 anos e sou terapeuta de Medicina Tradicional Chinesa e vocês quem são?
+
+Quais são as vossas expectativas em relação a este curso? 
+
+O que fazem? 
+
+Qual foi o vosso percurso?
+
+Preparei abaixo um micro inquérito para vos conhecer melhor. 
+
 
 <div id="surveyMonkeyInfo">
     <div>
