@@ -4,7 +4,12 @@ title: Inquérito
 ---
 ## Inquérito 
 
-<div id="surveyMonkeyInfo"><div><script src="http://pt.surveymonkey.com/jsEmbed.aspx?sm=0rKyfviZXE_2bVD_2bE5LMRvWg_3d_3d"> </script></div>Create your free online surveys with <a href="https://pt.surveymonkey.com">SurveyMonkey</a> , the world's leading questionnaire tool.</div>
+<div id="surveyMonkeyInfo">
+    <div>
+        <script src="http://pt.surveymonkey.com/jsEmbed.aspx?sm=0rKyfviZXE_2bVD_2bE5LMRvWg_3d_3d"> 
+        </script>
+    </div>
+</div>
 
-
+Obrigado pela atenção que dedicou a este questionário. Dia 30 receberá toda a informação necessária sobre este curso.
 
