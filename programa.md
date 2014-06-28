@@ -3,6 +3,10 @@ layout: cdefault
 title: Programa 
 ---
 
+<CENTER> <h2>Primeiro curso de Chi Kung Terapêutico no IMP </h2> </CENTER>
+
+<p><img src="/images/logo-ckimp.jpg" class="profile" style="float: center; margin-right: 1em; width: 100%;"></p>
+
 >Ofereçam um peixe a um homem e alimentam-o por um dia, ensinem-o a pescar e alimentem-o para toda a vida- *Provérbio Chinês.* 
 
 ## A minha experiência
