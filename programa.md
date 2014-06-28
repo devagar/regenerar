@@ -208,23 +208,30 @@ O valor da inscrição é de 300 Euros
 
 ## Formas de pagamento
 
-O valor restante de 1035 Euros pode ser pago 
+O valor restante de 1035 Euros pode ser pago:
 
-+ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70Euros
++ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
 
-+ **A pronto pagamento até 8 de Novembro,** beneficiando de 5% de desconto: 983.25Euros
++ **A pronto pagamento até 8 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
 
-+ **Em duas prestações** beneficiando de 5% sobre do valor total: 2 x 492Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
++ **Em duas prestações** beneficiando de 5% de desconto sobre do valor total: 2 x 492 Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
 
 + **Em oito mensalidades** por cheque ou transferência: 130 Euros/mês
 
+## Pré Inscrever-se
 
-Estes módulos estão distribuídos como se de uma árvore se tratasse.
+Amanhã esta informação será divulgada na lista geral do Instituto Macrobiótico de Portugal. De forma a assegurar a sua participação deverá fazer a sua pré inscrição.
 
-Os primeiros três módulos corresponde à Raiz
-Os seguintes dois módulos ao tronco 
-E os restantes aos ramos e folhas.  
+As pré-inscrições para as 15 vagas disponíveis são aceites por ordem de chegada.  
 
-Permitindo assim uma construção sólida 
+Ao pré inscrever-se será contactado pelo Instituto Macrobiotico de Portugal no dia útil seguinte para formalizar a sua inscrição.
 
+Clique aqui para aceder ao formulário de pré inscrição. 
 
+O meu compromisso como nas aulas que lecciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia.  
+
+Esta é uma oportunidade única de encontro de participantes com várias competências mas com um um único objectivo: O auto conhecimento, cultivo e fortalecimento da sua Energia Vital. 
+
+Qualquer dúvida sobre este curso poderá ser esclarecida utilizando o [meu email pessoal](mailto:lourenco.azevedo@devagar.org) 
+
+Boas práticas!
