@@ -37,44 +37,45 @@ Foi-me dado espaço, tempo e recursos para Regenerar.
 
 ## A definição
 
-**Regenerar pode ser definido como restaurar a Energia Original de cada ser humano que lhe dá acesso ao seu potencial que se manifesta no dia a dia como**
+**Regenerar pode ser definido como restaurar a Energia Original de cada ser humano este potencial único manifesta-se no dia a dia como**
 
 + Mais vitalidade
 + Mais presença
-+ Melhor postura
 + Mais foco
 + Capacidade de estabelecer prioridades 
 + Capacidade de relaxar mesmo em condições adversas
-+ Um corpo com menos tensões físicas e mentais
 + Melhor desempenho a nível pessoal e profissional
++ Um corpo com menos tensões físicas e mentais
 
-Existe a vontade de auto conhecimento e necessidade de nos mantermos física e mentalmente disponíveis. No entanto, existem também cinco factores que considero impedimentos para que a Regeneração aconteça e se estabeleça como prática regular.
+Existe a vontade de auto conhecimento e necessidade de nos mantermos física e mentalmente disponíveis. 
+
+No entanto, existem também cinco factores que considero impedimentos para que a Regeneração aconteça e se estabeleça como prática regular.
 
 1. Falta de organização do tempo disponível
 2. Incapacidade de desconectar das solicitações do dia a dia
 3. Dificuldades em definir prioridades e tomar resoluções 
 4. Relaxar das tensões físicas e mentais 
-5. Criar uma rotina consistente com objectivos que sobrevivam ao teste do tempo
+5. Criar uma rotina consistente de prática que sobreviva ao teste do tempo
 
 ## A proposta
 
 O Curso de Chi Kung Terapêutico do IMP foi criado para criar uma experiência prática efectiva de regeneração e não apenas noções teóricas. 
 
-Utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de criação de hábitos saudáveis.
++ Utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de criação de hábitos saudáveis.
 
-Está dividido 8 fins de semana divididos por 8 meses de prática terapêutica totalizando quase 100 horas de prática.
++ Está dividido 8 fins de semana divididos por 8 meses de prática terapêutica totalizando quase 100 horas de prática.
 
-Plataforma virtual exclusiva de apoio com material exclusivo que permite entre os seminários para manter a chama da motivação para a prática e hábitos saudáveis acesa. 
++ Os participantes têm acesso a uma plataforma virtual de apoio ao estudo, com material exclusivo que permite entre os seminários manter a chama da motivação para a prática e hábitos saudáveis acesa. 
 
-Possibilidade de integrar um grupo, altamente motivado onde possível é partilhar experiências e desafios no percurso de regeneração. 
++ Possibilidade de integrar um grupo, altamente motivado onde possível é partilhar experiências e desafios no percurso de regeneração. 
 
-A quem se destina.
+## A quem se destina.
 
 Porque a vontade de regenerar é um tema importante e clássico na história humana, este programa visa todos os participantes que queiram fortalecer a sua Energia Vital criando uma prática regular e consistente adaptada às condições individuais de cada um. 
 
-Destina-se também a terapeutas, que queiram utilizar o Chi Kung para alinhar e fortalecer o seu estado energético e a reunir conhecimentos que possam ser úteis na sua prática.  
+Destina-se também a terapeutas, que queiram utilizar o Chi Kung para alinhar e fortalecer o seu estado energético e a reunir conhecimentos que possam ser úteis na sua prática terapêutica.  
 
-Acredito que só é possível fazer um trabalho de qualidade e com alguma profundidade quando os grupos são pequenos e onde cada participante tem a atenção necessária. 
+Acredito que só é possível fazer um trabalho de qualidade e com profundidade quando os grupos são pequenos e onde cada participante tem a atenção necessária. 
 
 O limite de inscrição para este programa é de 15 participantes. 
 
@@ -84,9 +85,11 @@ Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que
 
 Outras práticas terapêuticas serão abordadas com as Oito Peças do Brocado - Um sistema de alongamentos que activa de forma global todas as estruturas físicas e energéticas do corpo humano, e exercícios de Dao Yin (ou Do Yin em Japonês) adaptados às estações e às condições individuais de cada aluno.
 
-A teoria deste curso assenta nas cinco transformações e nos clássicos Médicos da Medicina Tradicional Chinesa. Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia estão também contempladas. 
+A teoria deste curso assenta nas cinco transformações e nos clássicos Médicos da Medicina Tradicional Chinesa. 
 
-Neste contexto estão também incluídos remédios caseiros, alimentação e técnicas terapêuticas como a moxa.
+Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia estão também contempladas. 
+
+Neste contexto estão incluídos remédios caseiros, alimentação e técnicas terapêuticas como a moxa.
 
 Clique nos módulos para consultar o programa de forma mais detalhada
 
