@@ -181,23 +181,23 @@ Clique nos módulos para consultar o programa de forma mais detalhada
 
 ## Este é um programa que permite:
 
-Estudar práticas milenares que fortalecem a sua Energia Vital.
++ Estudar práticas milenares que fortalecem a sua Energia Vital.
 
-Aumentar a qualidade de tempo que tem disponível.
++ Aumentar a qualidade de tempo que tem disponível.
 
-Conhecer e integrar a Terapia e Filosofia Oriental no seu dia a dia
++ Conhecer e integrar a Terapia e Filosofia Oriental no seu dia a dia
 
-Aplicar o treino onde quer que esteja e tornar-se autónomo. 
++ Aplicar o treino onde quer que esteja e tornar-se autónomo. 
 
-Conhecer o seu corpo de uma forma mais integrada. 
++ Conhecer o seu corpo de uma forma mais integrada. 
 
-Aprender a criar uma rotina de treino eficaz que lhe permite continuar a treinar mesmo depois do programa terminado
++ Aprender a criar uma rotina de treino eficaz que lhe permite continuar a treinar mesmo depois do programa terminado
 
-Complementar a sua abordagem terapêutica com exercícios que podem beneficiar a si e aos seus paciente. 
++ Complementar a sua abordagem terapêutica com exercícios que podem beneficiar a si e aos seus paciente. 
 
-Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer.
++ Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer.
 
-Como participar.
+Como participar:
 
 ## Inscrição
 
@@ -210,11 +210,11 @@ O valor da inscrição é de 300 Euros
 
 O valor restante de 1035 Euros pode ser pago 
 
-+ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
++ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70Euros
 
-+ **A pronto pagamento até 8 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
++ **A pronto pagamento até 8 de Novembro,** beneficiando de 5% de desconto: 983.25Euros
 
-+ **Em duas prestações** beneficiando de 5% sobre do valor total: 2 x 492 Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
++ **Em duas prestações** beneficiando de 5% sobre do valor total: 2 x 492Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
 
 + **Em oito mensalidades** por cheque ou transferência: 130 Euros/mês
 
