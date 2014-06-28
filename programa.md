@@ -210,9 +210,9 @@ O valor da inscrição é de 300 Euros
 
 O valor restante de 1035 Euros pode ser pago 
 
-+ **A pronto até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
++ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
 
-+ **A pronto até 8 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
++ **A pronto pagamento até 8 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
 
 + **Em duas prestações** beneficiando de 5% sobre do valor total: 2 x 492 Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
 
