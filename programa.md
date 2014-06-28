@@ -35,6 +35,8 @@ Passei de uma atitude passiva de toma massiva de medicamentos para uma atitude p
 
 Foi-me dado espaço, tempo e recursos para Regenerar.
 
+## A definição
+
 **Regenerar pode ser definido como restaurar a Energia Original de cada ser humano que lhe dá acesso ao seu potencial que se manifesta no dia a dia como**
 
 + Mais vitalidade
