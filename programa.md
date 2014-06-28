@@ -199,19 +199,24 @@ Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer.
 
 Como participar.
 
-## Escolha um modo de pagamento.
+## Inscrição
 
-**A pronto até 30 de Julho** 1335 Eur. beneficiando de um voucher de 100 Eur. que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP.
+O valor da inscrição é de 300 Euros
 
-**A pronto até 30 de Setembro** e beneficie de 10% de desconto
-
-**A pronto até 8 de Novembro** e beneficie de 5% de desconto
-
-**Em duas prestações** beneficiando de 5% sobre do valor total - A primeira deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro
-
-**Em oito mensalidades** por cheque ou transferência de 130 Euros/mês
++ **Inscrição até 30 de Julho** beneficia de um voucher de 100 Eur. que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP. - O valor restante pode ser pago a pronto 
 
 
+## Formas de pagamento
+
+O valor restante de 1035 Euros pode ser pago 
+
++ **A pronto até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
+
++ **A pronto até 8 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
+
++ **Em duas prestações** beneficiando de 5% sobre do valor total: 2 x 492 Euros *- A primeira prestação deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro*
+
++ **Em oito mensalidades** por cheque ou transferência: 130 Euros/mês
 
 
 Estes módulos estão distribuídos como se de uma árvore se tratasse.
