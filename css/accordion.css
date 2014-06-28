@@ -63,6 +63,7 @@
 }
 .accordion h3 {
     color:#542437;
+    line-height: 34px;
     padding:0;
     margin:10px 0;
 }
