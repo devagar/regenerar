@@ -78,7 +78,7 @@ Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que
 
 Outras práticas terapêuticas serão abordadas com as Oito Peças do Brocado - Um sistema de alongamentos que activa de forma global todas as estruturas físicas e energéticas do corpo humano, e exercícios de Dao Yin (ou Do Yin em Japonês) adaptados às estações e às condições individuais de cada aluno.
 
-A teoria deste curso assenta nos clássicos Médicos da Medicina Tradicional Chinesa assim como algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e o meio que nos rodeia.
+A teoria deste curso assenta nas cinco transformações e nos clássicos Médicos da Medicina Tradicional Chinesa. Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia estão também contempladas. 
 
 Neste contexto estão também incluídos remédios caseiros, alimentação e técnicas terapêuticas como a moxa.
 
@@ -101,9 +101,10 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <div class="content">
                 <h3>22 e 23 de Novembro - Lourenço Azevedo</h3>
                 <p>História do Chi Kung</p>
-                <p>Estudo e prática da sequência principal e início do estudo das oito peças do brocado</p>
+                <p>Estudo e prática da sequência principal</p>
                 <p>Como criar uma prática regular e consistente</p>
-                <p>Cinco Transformações e o estudo da transformação Metal e Terra</p>
+                <p>Introdução às Cinco Transformações</p> 
+                <p>Exercícios para as transformações Metal e Terra</p>
                 <p>Tratamentos e práticas específicas para regenerar no Outono</p>
             </div>
         </li>
@@ -112,11 +113,10 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <label for="checkbox-3">Módulo 3 - Cultivar um Centro Forte e Fléxível</label>
             <div class="content">
                 <h3>20 e 21 de Dezembro - Lourenço Azevedo</h3>
-                <p>A anatomia do Centro</p>
+                <p>Anatomia do Centro</p>
                 <p>O Centro e as emoções</p>
-                <p>Transformação Água</p>
-                <p>Exercícios para o Elemento Água</p>
-                <p>Tratamentos e práticas específicas para regenerar no transformação no Inverno </p>
+                <p>Exercícios para a transformação Água</p>
+                <p>Tratamentos e práticas específicas para regenerar no Inverno</p>
             </div>
         </li>
         <li>
@@ -125,7 +125,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <div class="content">
                 <h3>17 e 18 de Janeiro - Lourenço Azevedo</h3>
                 <p>A respiração no Zhan Zhuang Chi Kung</p>
-                <p>Sistema Nervoso e a respiração</p>
+                <p>O Sistema Nervoso</p>
                 <p>Elemento Madeira</p>
                 <p>Tratamentos e práticas específicas para regenerar na Primavera</p>
             </div>
@@ -135,8 +135,8 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <label for="checkbox-5">Módulo 5 - Vitalidade e Imunidade</label>
             <div class="content">
                 <h3>14 e 15 de Fevereiro</h3>
-                <p></p>
-                <p>Elemento Fogo </p>
+                <p>Estudo das Seis direcções</p>
+                <p>Elemento Fogo</p>
                 <p>Tratamentos e práticas específicas para regenerar no Verão</p>
             </div>
         </li>
@@ -147,6 +147,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <h3>7 de Março - Silvia Romão</h3>
                 <p>Introdução à Meditação</p>
                 <h3>8 de Março - Lourenço de Azevedo</h3>
+                <p>Foco e movimento no Zhan Zhuang Chi Kung</p>
                 <p>Estudo de movimentos integradores</p>
                 <p></p>
             </div>
@@ -170,12 +171,48 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <div class="content">
                 <h3>16 e 17 de Maio - Lourenço de Azevedo</h3>
                 <p>Continuação do Estudo da Dança da Saúde</p>
-                <p>Apresentação de Trabalhos</p>
+                <p>Revisão do material estudado</p>
+                <p>Apresentação de Trabalhos de final de curso</p>
                 <p>Encerramento</p>
             </div>
         </li>
     </ul>
 </div>
+
+## Este é um programa que permite:
+
+Estudar práticas milenares que fortalecem a sua Energia Vital.
+
+Aumentar a qualidade de tempo que tem disponível.
+
+Conhecer e integrar a Terapia e Filosofia Oriental no seu dia a dia
+
+Aplicar o treino onde quer que esteja e tornar-se autónomo. 
+
+Conhecer o seu corpo de uma forma mais integrada. 
+
+Aprender a criar uma rotina de treino eficaz que lhe permite continuar a treinar mesmo depois do programa terminado
+
+Complementar a sua abordagem terapêutica com exercícios que podem beneficiar a si e aos seus paciente. 
+
+Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer.
+
+Como participar.
+
+## Escolha um modo de pagamento.
+
+**A pronto até 30 de Julho** 1335 Eur. beneficiando de um voucher de 100 Eur. que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP.
+
+**A pronto até 30 de Setembro** e beneficie de 10% de desconto
+
+**A pronto até 8 de Novembro** e beneficie de 5% de desconto
+
+**Em duas prestações** beneficiando de 5% sobre do valor total - A primeira deve ser paga até 8 de Novembro e a segunda até 10 de Janeiro
+
+**Em oito mensalidades** por cheque ou transferência de 130 Euros/mês
+
+
+
 
 Estes módulos estão distribuídos como se de uma árvore se tratasse.
 
