@@ -193,7 +193,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
 
 ## Este é um programa que permite
 
-Estudar práticas milenares que fortalecem a Energia Vital.
++ Estudar práticas milenares que fortalecem a Energia Vital.
 
 + Aumentar a qualidade de tempo que tem disponível.
 
