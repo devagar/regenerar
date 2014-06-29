@@ -23,7 +23,7 @@ Depois de todos os comprimidos, cápsulas, inaladores, injecções, vacinas, vac
 
 A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, utilizava o inalador, voltava-me para o outro lado e dormia até de manhã. E durante muitos anos foi assim. 
 
-Aos 27 anos inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso a informação e a práticas que me demonstravam que a vida afinal poderia ser diferente e que este percurso não tinha chegado ao fim mas estava mesmo agora a começar 
+Aos 27 anos inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso a informação e a práticas que me demonstravam que este percurso não tinha chegado ao fim mas estava mesmo agora a começar.
 
 Em poucas semanas depois de uma consulta e de iniciar o tratamento prescrito, o inalador ficou esquecido numa gaveta e foi deitado fora anos mais tarde já fora do prazo. 
 
@@ -37,7 +37,7 @@ Foi-me dado espaço, tempo e recursos para Regenerar.
 
 ## A definição
 
-**Regenerar pode ser definido como restaurar a Energia Original. Uma vez restaurado este potencial manifesta-se no dia a dia como:**
+**Regenerar pode ser definido como o percurso que nos permite aceder ao nosso potencial individual ou Energia Original. Uma vez restaurado, este potencial manifesta-se no dia a dia como:**
 
 + Mais vitalidade
 + Mais presença
@@ -59,15 +59,15 @@ No entanto, existem também cinco factores que considero impedimentos para que a
 
 ## A proposta
 
-O Curso de Chi Kung Terapêutico do IMP é um curso prático para que seja possível uma regeneração real e efectiva no participante.
+O Curso de Chi Kung Terapêutico do IMP é um curso prático destinado a permitir uma regeneração real e efectiva do participante. 
 
-+ Utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de Criação de Hábitos Saudáveis.
+Baseado em cursos anteriores que tenho realizado nos últimos cinco anos utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de Criação de Hábitos Saudáveis.
 
-+ Está dividido em 8 fins de semana durante 8 meses de estudo e prática de Chi Kung terapêutico, totalizando quase 100 horas.
+Está dividido em 8 fins de semana durante 8 meses de estudo e prática de Chi Kung terapêutico, totalizando quase 100 horas.
 
-+ Os participantes têm acesso a uma plataforma virtual de apoio ao estudo. Inclui material exclusivo que permite entre os seminários manter a motivação para a prática e para os hábitos saudáveis. 
+Neste curso os participantes têm acesso a uma plataforma virtual de apoio ao estudo. Inclui material exclusivo que permite um acompanhamento entre os seminários e que se destina a manter a motivação para a prática e para os hábitos saudáveis. 
 
-+ Este curso permite ainda possibilidade de integrar um grupo, altamente motivado onde possível partilhar experiências e desafios no percurso de regeneração. 
+Este curso permite ainda possibilidade de integrar um grupo, altamente motivado onde é possível partilhar experiências e desafios neste percurso de regeneração. 
 
 ## A quem se destina
 
@@ -81,18 +81,19 @@ O limite de inscrição para este programa é de 15 participantes.
 
 ## Conheça o programa 
 
-Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que ensino no Instituto Macrobiótico de Portugal.
+Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que ensino no Instituto Macrobiótico de Portugal há mais de 10 anos.
 
 Outras práticas terapêuticas serão abordadas com as Oito Peças do Brocado - Um sistema de alongamentos que activa de forma global todas as estruturas físicas e energéticas do corpo humano, e exercícios de Dao Yin (ou Do Yin em Japonês) adaptados às estações e às condições individuais de cada aluno.
 
-A teoria deste curso assenta nas cinco transformações, seis direcções e nos clássicos Médicos da Medicina Tradicional Chinesa. 
+A teoria deste curso assenta nas cinco transformações, Seis Direcções e nos clássicos Médicos da Medicina Tradicional Chinesa. 
 
 Cada uma das transformações é estudada detalhadamente o que incluí diagnóstico e estratégias de prevenção e fortalecimento. 
 
-As seis direcções são um tema essencial na compreensão e fortalecimento do Centro que está relacionado com temas como a vitalidade, sistema imune ou foco.  
+As Seis Direcções são um tema essencial na compreensão e fortalecimento d o Centro Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
+
 Neste contexto estão incluídos para além do Chi Kung remédios caseiros, alimentação e técnicas terapêuticas como a moxabustão.
 
-Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia fazem também parte do programa. 
+Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com o meio que nos cerca fazem também parte do programa. 
 
 Clique nos módulos para consultar o programa de forma mais detalhada
 
@@ -190,6 +191,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
         </li>
     </ul>
 </div>
+
 
 ## Este é um programa que permite:
 
