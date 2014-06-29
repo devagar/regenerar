@@ -158,7 +158,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <label for="checkbox-6">Módulo 6 - Foco e Mindfullness</label>
             <div class="content">
                 <h3>7 de Março - Silvia Romão</h3>
-                <p>Exercícios de atenção plena
+                <p>Exercícios de atenção plena</p>
                 <p>A prática fora da prática</p>
                 <p>Cultivar o hábito da atenção</p>
                 <h3>8 de Março - Lourenço de Azevedo</h3>
@@ -175,7 +175,6 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <h3>12 de Abril - Lourenço de Azevedo</h3>
                 <p>Introdução à Dança da Saúde</p>
                 <p>Fecho do ciclo das Oito Peças do Brocado</p>
-                <p></p>
             </div>
         </li>
         <li>
@@ -192,7 +191,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
     </ul>
 </div>
 
-## Este é um programa que permite:
+## Este é um programa que permite
 
 Estudar práticas milenares que fortalecem a Energia Vital.
 
