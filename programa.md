@@ -69,7 +69,7 @@ O Curso de Chi Kung Terapêutico do IMP foi criado para criar uma experiência p
 
 + Possibilidade de integrar um grupo, altamente motivado onde possível é partilhar experiências e desafios no percurso de regeneração. 
 
-## A quem se destina.
+## A quem se destina
 
 Porque a vontade de regenerar é um tema importante e clássico na história humana, este programa visa todos os participantes que queiram fortalecer a sua Energia Vital criando uma prática regular e consistente adaptada às condições individuais de cada um. 
 
@@ -87,9 +87,11 @@ Outras práticas terapêuticas serão abordadas com as Oito Peças do Brocado - 
 
 A teoria deste curso assenta nas cinco transformações e nos clássicos Médicos da Medicina Tradicional Chinesa. 
 
-Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia estão também contempladas. 
+Cada uma das transformações é estudada detalhadamente o que incluí diagnóstico e estratégias de prevenção e fortalecimento. 
 
-Neste contexto estão incluídos remédios caseiros, alimentação e técnicas terapêuticas como a moxa.
+Neste contexto estão incluídos para além do Chi Kung remédios caseiros, alimentação e técnicas terapêuticas como a moxabustão.
+
+Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com as estações e com o meio que nos rodeia fazem também parte do programa. 
 
 Clique nos módulos para consultar o programa de forma mais detalhada
 
@@ -113,7 +115,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <p>Estudo e prática da sequência principal</p>
                 <p>Como criar uma prática regular e consistente</p>
                 <p>Introdução às Cinco Transformações</p> 
-                <p>Exercícios para as transformações Metal e Terra</p>
+                <p>Estudo das transformações Terra e Metal</p>
                 <p>Tratamentos e práticas específicas para regenerar no Outono</p>
             </div>
         </li>
@@ -124,7 +126,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <h3>20 e 21 de Dezembro - Lourenço Azevedo</h3>
                 <p>Anatomia do Centro</p>
                 <p>O Centro e as emoções</p>
-                <p>Exercícios para a transformação Água</p>
+                <p>Estudo da transformação Água</p>
                 <p>Tratamentos e práticas específicas para regenerar no Inverno</p>
             </div>
         </li>
@@ -135,7 +137,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <h3>17 e 18 de Janeiro - Lourenço Azevedo</h3>
                 <p>A respiração no Zhan Zhuang Chi Kung</p>
                 <p>O Sistema Nervoso</p>
-                <p>Elemento Madeira</p>
+                <p>Estudo da transformação Madeira</p>
                 <p>Tratamentos e práticas específicas para regenerar na Primavera</p>
             </div>
         </li>
@@ -145,7 +147,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <div class="content">
                 <h3>14 e 15 de Fevereiro</h3>
                 <p>Estudo das Seis direcções</p>
-                <p>Elemento Fogo</p>
+                <p>Estudo da transformação Fogo</p>
                 <p>Tratamentos e práticas específicas para regenerar no Verão</p>
             </div>
         </li>
@@ -157,8 +159,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <p>Introdução à Meditação</p>
                 <h3>8 de Março - Lourenço de Azevedo</h3>
                 <p>Foco e movimento no Zhan Zhuang Chi Kung</p>
-                <p>Estudo de movimentos integradores</p>
-                <p></p>
+                <p>Continuação do estudo das seis direcções</p>                
             </div>
         </li>
         <li>
@@ -169,7 +170,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <p>Práticas de quietude</p>
                 <p>Autoexercícios e exercícios a pares com vista a criar sincronização com as forças originais da saúde.</p>
                 <h3>12 de Abril - Lourenço de Azevedo</h3>
-                <p>Introdução à dança da saúde</p>
+                <p>Introdução à Dança da Saúde</p>
                 <p>Fecho do ciclo das Oito Peças do Brocado</p>
                 <p></p>
             </div>
