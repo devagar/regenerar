@@ -7,7 +7,7 @@ title: Programa
 
 <p><img src="/images/logo-ckimp.jpg" class="profile" style="float: center; margin-right: 1em; width: 100%;"></p>
 
->Ofereçam um peixe a um homem e alimentam-o por um dia, ensinem-o a pescar e alimentam-o para toda a vida- *Provérbio Chinês.* 
+>Ofereçam um peixe a um homem e alimentam-no por um dia, ensinem-no a pescar e alimentam-no para toda a vida- *Provérbio Chinês.* 
 
 ## A minha experiência
 
@@ -23,7 +23,7 @@ Depois de todos os comprimidos, cápsulas, inaladores, injecções, vacinas, vac
 
 A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, utilizava o inalador, voltava-me para o outro lado e dormia até de manhã. E durante muitos anos foi assim. 
 
-Aos 27 anos inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso a informação e a práticas que me demonstravam que este percurso não tinha chegado ao fim mas estava mesmo agora a começar.
+Aos 27 inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso a informação e a práticas que me demonstravam que este percurso não tinha chegado ao fim mas estava mesmo agora a começar.
 
 Em poucas semanas depois de uma consulta e de iniciar o tratamento prescrito, o inalador ficou esquecido numa gaveta e foi deitado fora anos mais tarde já fora do prazo. 
 
@@ -89,7 +89,7 @@ A teoria deste curso assenta nas cinco transformações, Seis Direcções e nos 
 
 Cada uma das transformações é estudada detalhadamente o que incluí diagnóstico e estratégias de prevenção e fortalecimento. 
 
-As Seis Direcções são um tema essencial na compreensão e fortalecimento d o Centro Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
+As Seis Direcções são um tema essencial na compreensão e fortalecimento do Centro Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
 
 Neste contexto estão incluídos para além do Chi Kung remédios caseiros, alimentação e técnicas terapêuticas como a moxabustão.
 
@@ -147,7 +147,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <input type="checkbox" id="checkbox-5" name="checkbox-accordion" />
             <label for="checkbox-5">Módulo 5 - Vitalidade e Imunidade</label>
             <div class="content">
-                <h3>14 e 15 de Fevereiro</h3>
+                <h3>14 e 15 de Fevereiro - Lourenço de Azevedo</h3>
                 <p>Estudo das Seis direcções no fortalecimento da Vitalidade e Imunidade</p>
                 <p>Estudo da transformação Fogo</p>
                 <p>Tratamentos e práticas específicas para regenerar no Verão</p>
@@ -213,29 +213,31 @@ Como participar:
 
 ## Inscrição
 
-O valor da inscrição é de 300 Euros
+O valor da inscrição é de 300€
 
-+ **Inscrição até 30 de Julho** beneficia de um voucher de 100 Euros que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP de Outubro a Dezembro. 
++ **Inscrição até 30 de Julho** beneficia de um voucher de 100€ que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP de Outubro a Dezembro. 
 
 + Poderá fazer também a sua inscrição depois desta data não beneficiando no entanto do voucher. 
 
 ## Formas de pagamento
 
-O valor restante de 1035 Euros pode ser pago:
+O valor restante de 1035€ pode ser pago:
 
-+ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929.70 Euros
++ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929,70€
 
-+ **A pronto pagamento até 7 de Novembro,** beneficiando de 5% de desconto: 983.25 Euros
++ **A pronto pagamento até 7 de Novembro,** beneficiando de 5% de desconto: 983,25€
 
-+ **Em duas prestações** beneficiando de 5% de desconto sobre do valor total: 2 x 492 Euros *- A primeira prestação deve ser paga até 7 de Novembro e a segunda até 9 de Janeiro*
++ **Em duas prestações** beneficiando de 5% de desconto sobre do valor total: 2 x 492€ *- A primeira prestação deve ser paga até 7 de Novembro e a segunda até 9 de Janeiro*
 
-+ **Em oito mensalidades** por cheque ou transferência: 130 Euros/mês (até ao dia 7 de cada mês de Outubro a Maio)
++ **Em oito mensalidades** por cheque ou transferência: 130€/mês (até ao dia 7 de cada mês de Outubro a Maio)
 
 ## Pré Inscrever-se
 
 Amanhã esta informação será divulgada na lista geral do Instituto Macrobiótico de Portugal. 
 
-De forma a assegurar a sua participação deverá fazer a sua pré inscrição e as pré-inscrições para as 15 vagas disponíveis são aceites por ordem de chegada.  
+De forma a assegurar a sua participação deverá fazer a sua pré-inscrição.
+
+As pré-inscrições para as 15 vagas disponíveis serão aceites por ordem de chegada.  
 
 Ao pré inscrever-se será contactado pelo Instituto Macrobiotico de Portugal no dia útil seguinte para formalizar a sua inscrição.
 
