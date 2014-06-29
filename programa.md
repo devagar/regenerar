@@ -15,7 +15,7 @@ Aos 8 meses foi-me diagnosticada asma consequência de uma constipação mal tra
 
 A sabedoria popular atestava que aos 7 anos a asma desapareceria e que existiam alguns casos na família em que isso tinha acontecido.
 
-Aos sete anos e um dia a minha tristeza foi grande quando percebi que afinal o milagre não tinha acontecido. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha melhorado ficado completamente curado.
+Aos sete anos e um dia a minha tristeza foi grande quando percebi que afinal o milagre não tinha acontecido. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha ficado completamente curado.
 
 Aos 14 anos e um dia a minha tristeza repetia-se até porque agora já não havia mais nenhuma história que atestasse nem mesmo de forma remota que para além dos 14 a asma desaparecesse. 
 
