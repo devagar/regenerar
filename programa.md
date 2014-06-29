@@ -17,9 +17,9 @@ A sabedoria popular atestava que aos 7 anos a asma desapareceria e que existiam 
 
 Aos sete anos e um dia a minha tristeza foi grande quando percebi que afinal o milagre não tinha acontecido. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha ficado completamente curado.
 
-Aos 14 anos e um dia a minha tristeza repetia-se até porque agora já não havia mais nenhuma história que atestasse nem mesmo de forma remota que para além dos 14 a asma desaparecesse. 
+Aos 14 anos e um dia a minha tristeza repetia-se até porque agora já não havia mais nenhuma história que atestasse - nem mesmo de forma remota, que para além dos 14 a asma desaparecesse. 
 
-Depois de todos os tratamentos possíveis e imaginários que incluíram comprimidos, inaladores, injecções, vacinas, vacinas bebíveis e xaropes visitei muitos médicos e terapeutas desde o clássico Professor Catedrático até ao senhor que vivia numa aldeia longínqua a quase um dia de viagem e que era conhecido por ter operado milagres nas situações mais adversas. A asma essa persistia.
+Depois de todos os comprimidos, cápsulas, inaladores, injecções, vacinas, vacinas bebíveis, xaropes e chás que faziam parte das visitas aos mais diversos médicos e terapeutas. A asma persistia.
 
 A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, utilizava o inalador, voltava-me para o outro lado e dormia até de manhã. E durante muitos anos foi assim. 
 
@@ -27,7 +27,7 @@ Aos 27 anos inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso
 
 Em poucas semanas depois de uma consulta e de iniciar o tratamento prescrito, o inalador ficou esquecido numa gaveta e foi deitado fora anos mais tarde já fora do prazo. 
 
-Quais foram os tratamentos, suplementos ou os pontos de acupunctura que resolveram uma questão crónica de 27 Anos? Qual foi o segredo? É pergunta que com frequência me fazem quando conto esta história.
+Quais foram os tratamentos, suplementos ou os pontos de acupunctura que resolveram uma questão crónica de 27 Anos? Qual foi o segredo? 
 
 Houve apenas uma mudança: **Foram me dadas pelas primeira vez condições reais em que eu pudesse me autonomizar em relação à doença.** 
 
@@ -37,7 +37,7 @@ Foi-me dado espaço, tempo e recursos para Regenerar.
 
 ## A definição
 
-**Regenerar pode ser definido como restaurar a Energia Original que define a nossa identidade. Uma vez restaurado este potencial manifesta-se no dia a dia como:**
+**Regenerar pode ser definido como restaurar a Energia Original. Uma vez restaurado este potencial manifesta-se no dia a dia como:**
 
 + Mais vitalidade
 + Mais presença
