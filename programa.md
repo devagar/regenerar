@@ -78,7 +78,7 @@ Acredito que só é possível fazer um trabalho com qualidade e com profundidade
 
 O limite de inscrições para este programa é de 15 participantes. 
 
-**Neste momento existem 13 vagas disponíveis.** 
+**Neste momento existem 12 vagas disponíveis.** 
 
 ## Conheça o programa 
 
