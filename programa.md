@@ -98,7 +98,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
 
 <a id="modulos"> </a>
 
-### Clique nos módulos para consultar o programa de forma mais detalhada
+## Programa detalhado
 
 <div class="accordion vertical">
     <ul>
