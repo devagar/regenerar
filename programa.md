@@ -78,6 +78,8 @@ Acredito que só é possível fazer um trabalho com qualidade e com profundidade
 
 O limite de inscrições para este programa é de 15 participantes. 
 
+**Neste momento existe 14 vagas disponíveis.** 
+
 ## Conheça o programa 
 
 Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que ensino no Instituto Macrobiótico de Portugal há mais de 10 anos.
