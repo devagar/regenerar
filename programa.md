@@ -103,8 +103,8 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
 <div class="accordion vertical">
     <ul>
         <li>
-            <input type="checkbox" id="checkbox-1" name="checkbox-accordion" />
-            <label for="checkbox-1" checked="checked" >Módulo 1 - Princípios Energéticos</label>
+            <input type="checkbox" id="checkbox-1" name="checkbox-accordion" checked="checked"  />
+            <label for="checkbox-1">Módulo 1 - Princípios Energéticos</label>
             <div class="content">
                 <h3>25 e 26 de Outubro - Francisco Varatojo</h3>
                 <p>Apresentação do Curso</p>
@@ -112,8 +112,8 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-2" name="checkbox-accordion" />
-            <label for="checkbox-2" checked="checked" >Módulo 2 - Criar um contacto efectivo com a Terra</label>
+            <input type="checkbox" id="checkbox-2" name="checkbox-accordion" checked="checked" />
+            <label for="checkbox-2">Módulo 2 - Criar um contacto efectivo com a Terra</label>
             <div class="content">
                 <h3>22 e 23 de Novembro - Lourenço Azevedo</h3>
                 <p>História do Chi Kung</p>
@@ -125,7 +125,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-3" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-3" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-3">Módulo 3 - Cultivar um Centro Forte e Fléxível</label>
             <div class="content">
                 <h3>20 e 21 de Dezembro - Lourenço Azevedo</h3>
@@ -136,7 +136,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-4" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-4" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-4">Módulo 4 - Respiração e Relaxamento</label>
             <div class="content">
                 <h3>17 e 18 de Janeiro - Lourenço Azevedo</h3>
@@ -148,7 +148,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-5" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-5" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-5">Módulo 5 - Vitalidade e Imunidade</label>
             <div class="content">
                 <h3>14 e 15 de Fevereiro - Lourenço de Azevedo</h3>
