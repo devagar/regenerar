@@ -15,17 +15,17 @@ Aos 8 meses foi-me diagnosticada asma consequência de uma constipação mal tra
 
 A sabedoria popular atestava que aos 7 anos a asma desapareceria e que existiam alguns casos na família em que isso tinha acontecido.
 
-Aos sete anos e um dia a minha tristeza foi grande quando percebi que afinal o milagre não tinha acontecido. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha ficado completamente curado.
+Aos sete anos e um dia a minha tristeza foi grande quando percebi que não havia mudanças e tal como no dia anterior tinha de tomar a medicação de rotina. No entanto, alguém me garantia que existia alguém que era primo de um primo que aos 14 anos tinha ficado completamente curado.
 
 Aos 14 anos e um dia a minha tristeza repetia-se até porque agora já não havia mais nenhuma história que atestasse - nem mesmo de forma remota, que para além dos 14 a asma desaparecesse. 
 
-Depois de todos os comprimidos, cápsulas, inaladores, injecções, vacinas, vacinas bebíveis, xaropes e chás que faziam parte das visitas aos mais diversos médicos e terapeutas. A asma persistia.
+Depois de todos os comprimidos, cápsulas, inaladores, injecções, vacinas, vacinas bebíveis, xaropes, suplementos e chás que era recomendados pelos mais diversos professores, especialistas, médicos de clínica geral e terapeutas. A asma persistia.
 
-A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, utilizava o inalador, voltava-me para o outro lado e dormia até de manhã. E durante muitos anos foi assim. 
+A partir de uma certa altura desisti, acordava todas as noites entre as quatro e as cinco da manhã, utilizava o inalador, voltava-me para o outro lado e dormia até de manhã. Durante o dia mantinha a medicação de rotina. E durante muitos anos foi assim. 
 
 Aos 27 inscrevi-me no curso de Medicina Tradicional Chinesa. Ai tive acesso a informação e a práticas que me demonstravam que este percurso não tinha chegado ao fim mas estava mesmo agora a começar.
 
-Em poucas semanas depois de uma consulta e de iniciar o tratamento prescrito, o inalador ficou esquecido numa gaveta e foi deitado fora anos mais tarde já fora do prazo. 
+Em poucas semanas, depois de uma consulta e de iniciar o tratamento prescrito, o inalador ficou esquecido numa gaveta e foi deitado fora anos mais tarde já fora do prazo. 
 
 Quais foram os tratamentos, suplementos ou os pontos de acupunctura que resolveram uma questão crónica de 27 Anos? Qual foi o segredo? 
 
@@ -46,10 +46,9 @@ Foi-me dado espaço, tempo e recursos para Regenerar.
 + Capacidade de relaxar mesmo em condições adversas
 + Melhor desempenho a nível pessoal e profissional
 + Um corpo com menos tensões físicas e mentais
++ Existe a vontade de auto conhecimento e necessidade de nos mantermos física e mentalmente disponíveis. 
 
-Existe a vontade de auto conhecimento e necessidade de nos mantermos física e mentalmente disponíveis. 
-
-No entanto, existem também cinco factores que considero impedimentos para que a Regeneração aconteça e se estabeleça.
+No entanto, existem também cinco factores que considero impedimentos para que a esta Regeneração aconteça e se estabeleça.
 
 1. Falta de organização do tempo disponível
 2. Incapacidade de desconectar das solicitações do dia a dia
@@ -61,23 +60,23 @@ No entanto, existem também cinco factores que considero impedimentos para que a
 
 O Curso de Chi Kung Terapêutico do IMP é um curso prático destinado a permitir uma regeneração real e efectiva do participante. 
 
-Baseado em cursos anteriores que tenho realizado nos últimos cinco anos utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de Criação de Hábitos Saudáveis.
+Baseado em cursos anteriores que tenho desenvolvido nos últimos anos utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de Criação de Hábitos Saudáveis.
 
-Está dividido em 8 fins de semana durante 8 meses de estudo e prática de Chi Kung terapêutico, totalizando quase 100 horas.
+Está dividido em 8 fins de semana durante 8 meses de estudo e prática de Chi Kung Terapêutico, totalizando quase 100 horas.
 
-Neste curso os participantes têm acesso a uma plataforma virtual de apoio ao estudo. Inclui material exclusivo que permite um acompanhamento entre os seminários e que se destina a manter a motivação para a prática e para os hábitos saudáveis. 
+Para além das aulas presenciais os participantes têm acesso a uma plataforma virtual de apoio ao estudo. Inclui material exclusivo que permite um acompanhamento entre os seminários e que se destina a manter a motivação para a prática e para os hábitos saudáveis. 
 
-Este curso permite ainda possibilidade de integrar um grupo, altamente motivado onde é possível partilhar experiências e desafios neste percurso de regeneração. 
+Este curso assenta numa comunidade o que permite ainda a possibilidade de integrar um grupo, altamente motivado onde é possível partilhar experiências e desafios neste percurso de regeneração. 
 
 ## A quem se destina
 
-Porque a vontade de Regenerar é um tema importante e clássico na história humana, este programa visa todos os participantes que queiram fortalecer a sua Energia Vital criando uma prática de Chi Kung regular e consistente adaptada às condições individuais de cada um. 
+Porque a vontade de Regenerar é uma vontade universal e humana, este programa visa todos os participantes que queiram fortalecer a sua Energia Vital criando uma prática de Chi Kung regular e consistente adaptada às condições individuais de cada um. 
 
 Destina-se também a terapeutas, que queiram utilizar o Chi Kung para alinhar e fortalecer o seu estado energético e reunir conhecimentos que possam ser úteis na sua prática clínica.  
 
-Acredito que só é possível fazer um trabalho de qualidade e com profundidade quando os grupos são pequenos e onde cada participante tem a atenção necessária. 
+Acredito que só é possível fazer um trabalho com qualidade e com profundidade quando os grupos são pequenos e onde cada participante tem a atenção necessária ao seu desenvolvimento. 
 
-O limite de inscrição para este programa é de 15 participantes. 
+O limite de inscrições para este programa é de 15 participantes. 
 
 ## Conheça o programa 
 
@@ -85,15 +84,15 @@ Na base deste programa está a prática do Zhan Zhuang Chi Kung Terapêutico que
 
 Outras práticas terapêuticas serão abordadas com as Oito Peças do Brocado - Um sistema de alongamentos que activa de forma global todas as estruturas físicas e energéticas do corpo humano, e exercícios de Dao Yin (ou Do Yin em Japonês) adaptados às estações e às condições individuais de cada aluno.
 
-A teoria deste curso assenta nas cinco transformações, Seis Direcções e nos clássicos Médicos da Medicina Tradicional Chinesa. 
+A teoria deste curso assenta nas cinco transformações, Seis Direcções, nos clássicos da Medicina Tradicional Chinesa e da filosofia oriental.
 
 Cada uma das transformações é estudada detalhadamente o que incluí diagnóstico e estratégias de prevenção e fortalecimento. 
 
-As Seis Direcções são um tema essencial na compreensão e fortalecimento do Centro Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
+Neste contexto estão incluídos para além do Chi Kung os remédios caseiros, alimentação e técnicas terapêuticas como a moxabustão.
 
-Neste contexto estão incluídos para além do Chi Kung remédios caseiros, alimentação e técnicas terapêuticas como a moxabustão.
+As Seis Direcções são um tema essencial na compreensão e fortalecimento da Energia Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
 
-Algumas obras da filosofia oriental que nos remetem a um estado mais perto do equilíbrio com o meio que nos cerca fazem também parte do programa. 
+Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante do sistema de Zhan Zhuang Chi Kung permite desenvolver um movimento único a partir da identidade e intuição de cada praticante,  
 
 Clique nos módulos para consultar o programa de forma mais detalhada
 
@@ -139,6 +138,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
                 <h3>17 e 18 de Janeiro - Lourenço Azevedo</h3>
                 <p>A respiração no Zhan Zhuang Chi Kung</p>
                 <p>O Sistema Nervoso no Chi Kung</p>
+                <p>Técnicas de relaxamento para utilização diária</p>
                 <p>Estudo da transformação Madeira</p>
                 <p>Tratamentos e práticas específicas para regenerar na Primavera</p>
             </div>
@@ -149,6 +149,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <div class="content">
                 <h3>14 e 15 de Fevereiro - Lourenço de Azevedo</h3>
                 <p>Estudo das Seis direcções no fortalecimento da Vitalidade e Imunidade</p>
+                <p>Exrecícios de interacção e fortalecimento da imunidade</p>
                 <p>Estudo da transformação Fogo</p>
                 <p>Tratamentos e práticas específicas para regenerar no Verão</p>
             </div>
@@ -215,7 +216,7 @@ Como participar:
 
 O valor da inscrição é de 300€
 
-+ **Inscrição até 30 de Julho** beneficia de um voucher de 100€ que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung no IMP de Outubro a Dezembro. 
++ **Inscrição até 30 de Julho** beneficia de um voucher de 100€ que pode utilizar para vários serviços no IMP ou para o primeiro bloco de 12 aulas regulares de Zhan Zhuang Chi Kung de Outubro a Dezembro. 
 
 + Poderá fazer também a sua inscrição depois desta data não beneficiando no entanto do voucher. 
 
@@ -241,7 +242,7 @@ As pré-inscrições para as 15 vagas disponíveis serão aceites por ordem de c
 
 Ao pré inscrever-se será contactado pelo Instituto Macrobiotico de Portugal no dia útil seguinte para formalizar a sua inscrição.
 
-[Clique para aceder ao formulário de pré inscrição.](http://regenerar.org/form.html) 
+[Clique para aceder ao formulário de pré-inscrição.](http://regenerar.org/form.html) 
 
 O meu compromisso nas aulas que lecciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia.  
 
