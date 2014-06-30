@@ -204,11 +204,11 @@ Clique nos módulos para consultar o programa de forma mais detalhada
 
 + Conhecer o seu corpo de uma forma mais integrada. 
 
-+ Introduzir o aspecto terapêutico em outras práticas já existentes como a meditação ou actividades mais físicas. 
++ Introduzir o aspecto terapêutico em outras práticas já existentes     como a meditação ou actividades mais físicas. 
 
 + Aprender a criar uma rotina de treino eficaz que lhe permite continuar a treinar mesmo depois do programa terminar.
 
-+ Complementar uma abordagem terapêutica previamente existente - como a Macrobiótica, Massagem ou Medicina Tradicional Chinesa, com exercícios que podem beneficiar a si e aos seus paciente. 
++ Complementar uma abordagem terapêutica previamente existente - como a Macrobiótica, Massagem ou Medicina Tradicional Chinesa, com exercícios que o podem beneficiar a si e aos seus paciente. 
 
 + Beneficiar de todos os efeitos que o Chi Kung Terapêutico lhe pode oferecer.
 
