@@ -94,7 +94,9 @@ As Seis Direcções são um tema essencial na compreensão e fortalecimento da E
 
 Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante do sistema de Zhan Zhuang Chi Kung permite desenvolver um movimento único a partir da identidade e intuição de cada praticante,  
 
-Clique nos módulos para consultar o programa de forma mais detalhada
+<a id="modulos"> </a>
+
+### Clique nos módulos para consultar o programa de forma mais detalhada
 
 <div class="accordion vertical">
     <ul>
