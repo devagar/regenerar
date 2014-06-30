@@ -253,3 +253,5 @@ Esta é uma oportunidade única de encontro de participantes com várias compet�
 Qualquer dúvida sobre este curso poderá ser esclarecida utilizando o [meu email pessoal](mailto:lourenco.azevedo@devagar.org) 
 
 Boas práticas!
+
+O coordenador deste curso é Membro desde 2004 da APAMTC (Associação Profissional de Acupunctura e Medicina Tradicional Chinesa) e desde 2013 da APCKTT (Associação Profissional de Chi Kung e Tai Chi terapêuticos). É Especialista de Medicina Tradicional Chinesa desde 2003 licenciado pela Escola Superior de Medicina Tradicional Chinesa e praticante de Chi Kung desde 1997. As aulas que são leccionas são exclusivamente terapêuticas e não se encontram abrangidas pelo actual Decreto-Lei nº 248-A/2008 que regulamenta as actividades desportivas.
