@@ -104,7 +104,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
     <ul>
         <li>
             <input type="checkbox" id="checkbox-1" name="checkbox-accordion" />
-            <label for="checkbox-1">Módulo 1 - Princípios Energéticos</label>
+            <label for="checkbox-1" checked="checked" >Módulo 1 - Princípios Energéticos</label>
             <div class="content">
                 <h3>25 e 26 de Outubro - Francisco Varatojo</h3>
                 <p>Apresentação do Curso</p>
@@ -113,7 +113,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
         </li>
         <li>
             <input type="checkbox" id="checkbox-2" name="checkbox-accordion" />
-            <label for="checkbox-2">Módulo 2 - Criar um contacto efectivo com a Terra</label>
+            <label for="checkbox-2" checked="checked" >Módulo 2 - Criar um contacto efectivo com a Terra</label>
             <div class="content">
                 <h3>22 e 23 de Novembro - Lourenço Azevedo</h3>
                 <p>História do Chi Kung</p>
