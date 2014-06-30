@@ -62,7 +62,7 @@ O Curso de Chi Kung Terapêutico do IMP é um curso prático destinado a permiti
 
 Baseado em cursos anteriores que tenho desenvolvido nos últimos anos utiliza o Chi Kung e a Teoria da Medicina Tradicional Chinesa em conjunto com um programa de Criação de Hábitos Saudáveis.
 
-Está dividido em 8 fins de semana durante 8 meses de estudo e prática de Chi Kung Terapêutico, totalizando quase 100 horas.
+Está dividido em 8 fins de semana - das 10 às 18h, durante 8 meses - de Outubro a Maio, que incluem o estudo e prática de Chi Kung Terapêutico, totalizando quase 100 horas. 
 
 Para além das aulas presenciais os participantes têm acesso a uma plataforma virtual de apoio ao estudo. Inclui material exclusivo que permite um acompanhamento entre os seminários e que se destina a manter a motivação para a prática e para os hábitos saudáveis. 
 
@@ -92,7 +92,7 @@ Neste contexto estão incluídos para além do Chi Kung os remédios caseiros, a
 
 As Seis Direcções são um tema essencial na compreensão e fortalecimento da Energia Vital e que está relacionado com temas como a vitalidade, sistema imune ou foco.  
 
-Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante do sistema de Zhan Zhuang Chi Kung permite desenvolver um movimento único a partir da identidade e intuição de cada praticante,  
+Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante do sistema de Zhan Zhuang Chi Kung permite desenvolver um movimento único a partir da identidade e intuição de cada praticante.
 
 <a id="modulos"> </a>
 
