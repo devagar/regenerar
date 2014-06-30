@@ -159,7 +159,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-6" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-6" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-6">Módulo 6 - Foco e Mindfullness</label>
             <div class="content">
                 <h3>7 de Março - Silvia Romão</h3>
@@ -171,7 +171,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-7" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-7" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-7">Módulo 7 - Da Quietude ao Movimento e do Movimento à Quietude</label>
             <div class="content">
                 <h3>11 de Abril - Luísa Sousa Martins</h3>
@@ -183,7 +183,7 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             </div>
         </li>
         <li>
-            <input type="checkbox" id="checkbox-8" name="checkbox-accordion" />
+            <input type="checkbox" id="checkbox-8" name="checkbox-accordion" checked="checked" />
             <label for="checkbox-8">Módulo 8 - Retiro Urbano</label>
             <div class="content">
                 <h3>16 e 17 de Maio - Lourenço de Azevedo</h3>
