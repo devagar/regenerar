@@ -170,7 +170,7 @@ Clique nos módulos para consultar o programa de forma mais detalhada
             <input type="checkbox" id="checkbox-7" name="checkbox-accordion" />
             <label for="checkbox-7">Módulo 7 - Da Quietude ao Movimento e do Movimento à Quietude</label>
             <div class="content">
-                <h3>11 de Abril - Luísa Martins</h3>
+                <h3>11 de Abril - Luísa Sousa Martins</h3>
                 <p>Práticas de quietude</p>
                 <p>Autoexercícios e exercícios a pares com vista a criar sincronização com as forças originais da saúde.</p>
                 <h3>12 de Abril - Lourenço de Azevedo</h3>
