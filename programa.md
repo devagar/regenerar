@@ -230,7 +230,7 @@ O valor da inscrição é de 300€
 
 O valor restante de 1035€ pode ser pago:
 
-+ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 929,70€
++ **A pronto pagamento até 30 de Setembro,** beneficiando de 10% de desconto: 931,50€
 
 + **A pronto pagamento até 7 de Novembro,** beneficiando de 5% de desconto: 983,25€
 
