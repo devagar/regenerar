@@ -250,6 +250,8 @@ Ao pré inscrever-se será contactado pelo Instituto Macrobiotico de Portugal no
 
 [Clique para aceder ao formulário de pré-inscrição.](http://regenerar.org/form.html) 
 
+**O seu lugar neste curso só estará garantido quando for efectuado o pagamento da inscrição.**
+
 O meu compromisso nas aulas que lecciono é criar o melhor conteúdo para permitir a quem se inscreve superar-se e descobrir novas possibilidades no seu dia a dia.  
 
 Esta é uma oportunidade única de encontro de participantes com várias competências mas com um um único objectivo: O auto conhecimento, cultivo e fortalecimento da sua Energia Vital. 
