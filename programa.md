@@ -78,7 +78,7 @@ Acredito que só é possível fazer um trabalho com qualidade e com profundidade
 
 O limite de inscrições para este programa é de 15 participantes. 
 
-**Neste momento existem 3 vagas disponíveis.** 
+**Neste momento existem 2 vagas disponíveis.** 
 
 ## Conheça o programa 
 
@@ -153,14 +153,14 @@ Nos últimos dois módulos será estudada a Dança da Saúde, parte integrante d
             <div class="content">
                 <h3>14 e 15 de Fevereiro - Lourenço de Azevedo</h3>
                 <p>Estudo das Seis direcções no fortalecimento da Vitalidade e Imunidade</p>
-                <p>Exrecícios de interacção e fortalecimento da imunidade</p>
+                <p>Exercícios de interacção e fortalecimento da imunidade</p>
                 <p>Estudo da transformação Fogo</p>
                 <p>Tratamentos e práticas específicas para regenerar no Verão</p>
             </div>
         </li>
         <li>
             <input type="checkbox" id="checkbox-6" name="checkbox-accordion" checked="checked" />
-            <label for="checkbox-6">Módulo 6 - Foco e Mindfullness</label>
+            <label for="checkbox-6">Módulo 6 - Foco e Mindfulness</label>
             <div class="content">
                 <h3>7 de Março - Silvia Romão</h3>
                 <p>Exercícios de atenção plena</p>
