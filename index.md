@@ -29,7 +29,7 @@ Acredito que só é possível fazer um trabalho com qualidade e com profundidade
 
 O limite de inscrições para este programa é de 15 participantes. 
 
-**Neste momento existe 1 vaga disponível.** 
+**Neste momento o curso está completo.** 
 
 ## Conheça o programa 
 
